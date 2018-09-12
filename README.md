@@ -2,7 +2,6 @@
 Control You'r System With me 👁
 <br><br>
 <img src="https://github.com/lnxpy/Raincon/blob/master/display.png" with="100%">
-<br>
 Hi Guy's!<br>
 Welcome to 🌈 Raincon 🌈!<br>
 Coloric Conky for Linux OS!<br>
