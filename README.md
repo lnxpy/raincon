@@ -61,6 +61,8 @@ To get conky to run as a background process use the following command:
  > run the Conky Manager Software.<br>
  > check the ~/.conky/Raincon/Raincon conky then use it.<br>
 
+<br>
+<img src="https://github.com/lnxpy/Raincon/blob/master/raincon.gif" width="100%">
 <br><br>
 lnxpylnxpy@gmail.com<br>
 GitHub.com/lnxpy
