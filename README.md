@@ -1,6 +1,6 @@
 # Raincon
 Control You'r System With me 👁
-<br>
+<br><br>
 <img src="https://github.com/lnxpy/Raincon/blob/master/display.png" with="100%">
 <br>
 Hi Guy's!<br>
@@ -14,25 +14,25 @@ If you are using a Debian based Linux distribution such as any of the Ubuntu fam
 
 >$sudo apt-get install conky
 
-<br><br>
+<br>
 If you are using Fedora or CentOS use the following yum command:
 <br><br>
 
 >$sudo yum install conky
 
-<br><br>
+<br>
 For openSUSE you would use the following zypper command
 <br><br>
 
 >$sudo zypper install conky
 
-<br><br>
+<br>
 For Arch Linux user the following PacMan command
 <br><br>
 
 >$sudo pacman -S conky
 
-<br><br>
+<br>
 In each of the cases above, I have included sudo to elevate your privileges.
 <br>
 Running Conky<br>
@@ -41,20 +41,20 @@ You can run conky straight from the terminal by running the following command:
 
 >$conky
 
-<br><br>
+<br>
 On its own, it isn't very good and you might find the screen flickers.
 To get rid of the flicker run conky in the following way:s
 <br><br>
 
 >$conky -b
 
-<br><br>
+<br>
 To get conky to run as a background process use the following command:
 <br><br>
 
 >$conky -b &
 
-<br><br>
+<br>
 
  > Install Conky Manager for Managing your conkies.<br>
  > Download or clone it then cut all document's to a folder as 'Raincon'<br>
