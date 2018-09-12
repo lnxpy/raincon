@@ -9,11 +9,15 @@ USAGE :<br>
 Installing Conky<br>
 If you are using a Debian based Linux distribution such as any of the Ubuntu family (Ubuntu, Ubuntu MATE, Ubuntu GNOME, Kubuntu, Xubuntu, Lubuntu etc), Linux Mint, Bodhi etc then use the following apt-get command:
 <br><br>
+
 >$sudo apt-get install conky
+
 <br><br>
 If you are using Fedora or CentOS use the following yum command:
 <br><br>
+
 >$sudo yum install conky
+
 <br><br>
 For openSUSE you would use the following zypper command
 <br><br>
@@ -21,23 +25,31 @@ For openSUSE you would use the following zypper command
 <br><br>
 For Arch Linux user the following PacMan command
 <br><br>
+
 >$sudo pacman -S conky
+
 <br><br>
 In each of the cases above, I have included sudo to elevate your privileges.
 <br>
 Running Conky<br>
 You can run conky straight from the terminal by running the following command:
 <br><br>
+
 >$conky
+
 <br><br>
 On its own, it isn't very good and you might find the screen flickers.
 To get rid of the flicker run conky in the following way:s
 <br><br>
+
 >$conky -b
+
 <br><br>
 To get conky to run as a background process use the following command:
 <br><br>
+
 >$conky -b &
+
 <br><br>
 
  > Install Conky Manager for Managing your conkies.<br>
