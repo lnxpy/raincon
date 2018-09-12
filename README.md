@@ -21,7 +21,9 @@ If you are using Fedora or CentOS use the following yum command:
 <br><br>
 For openSUSE you would use the following zypper command
 <br><br>
+
 >$sudo zypper install conky
+
 <br><br>
 For Arch Linux user the following PacMan command
 <br><br>
