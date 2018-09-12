@@ -44,7 +44,8 @@ $conky -b &
  > Download or clone it then cut all document's to a folder as 'Raincon'<br>
  > Then cut or copy the Raincon folder to ~/.conky <-- this directory maybe hidden!<br>
  > run the Conky Manager Software.<br>
- < check the ~/.conky/Raincon/Raincon conky then use it.<br>
+ > check the ~/.conky/Raincon/Raincon conky then use it.<br>
+
 <br><br>
 lnxpylnxpy@gmail.com<br>
 GitHub.com/lnxpy
