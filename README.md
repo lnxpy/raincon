@@ -1,14 +1,12 @@
-# Raincon
-Control You'r System With me 👁
+Raincon
+linux configs on gnome desktop
 <br><br>
 <img src="https://github.com/lnxpy/Raincon/blob/master/display.png" with="100%">
-Hi Guy's!<br>
-Welcome to 🌈 Raincon 🌈!<br>
-Coloric Conky for Linux OS!<br>
+colored conky for linux OS!<br>
 <br>
-USAGE :<br>
-Installing Conky<br>
-If you are using a Debian based Linux distribution such as any of the Ubuntu family (Ubuntu, Ubuntu MATE, Ubuntu GNOME, Kubuntu, Xubuntu, Lubuntu etc), Linux Mint, Bodhi etc then use the following apt-get command:
+Usage :<br>
+Installing the conky<br>
+If you are using a debian based linux distribution such as any of the ubuntu family (ubuntu, ubuntu MATE, kubuntu, xubuntu, lubuntu etc), linux mint, Bodhi etc then use the following apt-get command:
 <br><br>
 
 >$sudo apt-get install conky
@@ -63,6 +61,3 @@ To get conky to run as a background process use the following command:
 
 <br>
 <img src="https://github.com/lnxpy/Raincon/blob/master/raincon.gif" width="100%">
-<br><br>
-lnxpylnxpy@gmail.com<br>
-GitHub.com/lnxpy
