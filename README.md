@@ -1,4 +1,4 @@
-# Raincon
+# raincon
 linux configs on gnome desktop
 <br><br>
 <img src="https://github.com/lnxpy/Raincon/blob/master/display.png" with="100%">
