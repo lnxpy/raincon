@@ -16,3 +16,6 @@ Now, It's time to explode your desktop. Clone this repo right in `~/.conky`. Now
 
 ## Preview
 <img src="https://github.com/lnxpy/Raincon/blob/master/display.png" with="100%">
+
+## Fork
+As always, Fork is free for you :)
