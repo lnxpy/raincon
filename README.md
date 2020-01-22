@@ -5,7 +5,7 @@ Let's see how you can customize your desktop of Debian-based distro. How would i
 ### Conky Installation
 If you are using a Debian-based Linux distribution such as any of the Ubuntu family, you can install `conky` on your system using `apt` package manager as follows.
 
-`$ sudo apt-get install conky`
+    $ sudo apt-get install conky
 
 __You are able to install the `conky` on your favorite distros and different package managers.__
 
